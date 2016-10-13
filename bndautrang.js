@@ -117,7 +117,7 @@ jQuery(window).load(function() {
 			jQuery(divpopup).attr('id', 'myModal');
 			jQuery(divpopup).attr('class', 'linhnguyen-modal');
 			jQuery( "body" ).append(divpopup);
-			jQuery("#myModal").html("<a href='http://bit.ly/2dmGqvR' target='_blank'><img src='https://lh3.googleusercontent.com/-pz4s4R_V0Rk/V_2sAQaGzSI/AAAAAAAAB6A/Z7DGKAA5c1AoqfuqRkdMfPTBEg1zqNV4ACL0B/w990-h364-no/officetel-can-ho-richmond-city.jpg' width='500px'/><br/>13 Chiết khấu 18% ngày mở bán</a>. Căn hộ Richmond City. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			jQuery("#myModal").html("<a href='http://bit.ly/2dmGqvR' target='_blank'><img src='https://lh3.googleusercontent.com/-fI0ucJVfDGs/V_-MnDWnzXI/AAAAAAAAB7Q/UCSvS0bCcUcenkqkb9NVPtesDi5TiVuyQCL0B/w835-h531-no/office-tel-richmond-city.jpg' width='500px'/><br/>13 Chiết khấu 18% ngày mở bán</a>. Căn hộ Richmond City. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			jQuery('#myModal').linhnguyen(jQuery('#myModal').data());
 		}
 });
